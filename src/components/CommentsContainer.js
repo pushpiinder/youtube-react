@@ -2,44 +2,44 @@ import React from "react";
 
 const commentsData = [
   {
-    name: "Akshay Saini",
+    name: "Rohit Khanna",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
   {
-    name: "Akshay Saini",
+    name: "Akash Sharma",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [
       {
-        name: "Akshay Saini",
+        name: "Sumit Rana",
         text: "Lorem ipsum dolor sit amet, consectetur adip",
         replies: [],
       },
       {
-        name: "Akshay Saini",
+        name: "Himanshu Garg",
         text: "Lorem ipsum dolor sit amet, consectetur adip",
         replies: [
           {
-            name: "Akshay Saini",
+            name: "Harsh Sharma",
             text: "Lorem ipsum dolor sit amet, consectetur adip",
             replies: [
               {
-                name: "Akshay Saini",
+                name: "Shivam Bansal",
                 text: "Lorem ipsum dolor sit amet, consectetur adip",
                 replies: [
                   {
-                    name: "Akshay Saini",
+                    name: "Ravidutt Sharma",
                     text: "Lorem ipsum dolor sit amet, consectetur adip",
                     replies: [
                       {
-                        name: "Akshay Saini",
+                        name: "Manjeet",
                         text: "Lorem ipsum dolor sit amet, consectetur adip",
                         replies: [],
                       },
                     ],
                   },
                   {
-                    name: "Akshay Saini",
+                    name: "Karan Sehgal",
                     text: "Lorem ipsum dolor sit amet, consectetur adip",
                     replies: [],
                   },
@@ -52,22 +52,22 @@ const commentsData = [
     ],
   },
   {
-    name: "Akshay Saini",
+    name: "Mehrishi",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
   {
-    name: "Akshay Saini",
+    name: "Rajat Singh",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
   {
-    name: "Akshay Saini",
+    name: "Vikram",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
   {
-    name: "Akshay Saini",
+    name: "Rahul Sarin",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
